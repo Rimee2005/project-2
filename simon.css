@@ -1,6 +1,15 @@
 body {
     text-align: center;
   }
+"float": (
+  responsive: true,
+  property: float,
+  values: (
+    start: left,
+    end: right,
+    none: none,
+  )
+)
   
   .box-container {
     margin: auto;
